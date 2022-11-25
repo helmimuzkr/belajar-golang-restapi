@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/go-playground/validator/v10"
-	"github.com/helmimuzkr/golang-restapi/model"
-	"github.com/helmimuzkr/golang-restapi/repository"
+	"github.com/helmimuzkr/belajar-golang-restapi/model"
+	"github.com/helmimuzkr/belajar-golang-restapi/repository"
 )
 
 type CategoryService interface {

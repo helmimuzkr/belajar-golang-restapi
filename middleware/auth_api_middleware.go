@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/helmimuzkr/golang-restapi/presenter"
+	"github.com/helmimuzkr/belajar-golang-restapi/presenter"
 	"github.com/julienschmidt/httprouter"
 )
 

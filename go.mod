@@ -1,4 +1,4 @@
-module github.com/helmimuzkr/golang-restapi
+module github.com/helmimuzkr/belajar-golang-restapi
 
 go 1.19
 

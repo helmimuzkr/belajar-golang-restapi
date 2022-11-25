@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/helmimuzkr/golang-restapi/model"
+	"github.com/helmimuzkr/belajar-golang-restapi/model"
 )
 
 type CategoryRepository interface {

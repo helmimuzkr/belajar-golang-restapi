@@ -6,13 +6,13 @@ import (
 
 	"github.com/go-playground/validator/v10"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/helmimuzkr/golang-restapi/config"
-	"github.com/helmimuzkr/golang-restapi/controller"
-	"github.com/helmimuzkr/golang-restapi/middleware"
-	"github.com/helmimuzkr/golang-restapi/repository"
-	"github.com/helmimuzkr/golang-restapi/route"
-	"github.com/helmimuzkr/golang-restapi/service"
-	"github.com/helmimuzkr/golang-restapi/util"
+	"github.com/helmimuzkr/belajar-golang-restapi/config"
+	"github.com/helmimuzkr/belajar-golang-restapi/controller"
+	"github.com/helmimuzkr/belajar-golang-restapi/middleware"
+	"github.com/helmimuzkr/belajar-golang-restapi/repository"
+	"github.com/helmimuzkr/belajar-golang-restapi/route"
+	"github.com/helmimuzkr/belajar-golang-restapi/service"
+	"github.com/helmimuzkr/belajar-golang-restapi/util"
 	"github.com/julienschmidt/httprouter"
 )
 

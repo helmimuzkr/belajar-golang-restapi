@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/helmimuzkr/golang-restapi/exception"
-	"github.com/helmimuzkr/golang-restapi/model"
-	"github.com/helmimuzkr/golang-restapi/presenter"
-	"github.com/helmimuzkr/golang-restapi/service"
+	"github.com/helmimuzkr/belajar-golang-restapi/exception"
+	"github.com/helmimuzkr/belajar-golang-restapi/model"
+	"github.com/helmimuzkr/belajar-golang-restapi/presenter"
+	"github.com/helmimuzkr/belajar-golang-restapi/service"
 	"github.com/julienschmidt/httprouter"
 )
 

@@ -1,7 +1,7 @@
 package route
 
 import (
-	"github.com/helmimuzkr/golang-restapi/controller"
+	"github.com/helmimuzkr/belajar-golang-restapi/controller"
 	"github.com/julienschmidt/httprouter"
 )
 

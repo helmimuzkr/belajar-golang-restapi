@@ -7,7 +7,7 @@ import (
 	"time"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/helmimuzkr/golang-restapi/config"
+	"github.com/helmimuzkr/belajar-golang-restapi/config"
 )
 
 func NewDatabaseConnection(config *config.AppConfig) *sql.DB {
