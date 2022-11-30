@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"net/http"
 
@@ -39,6 +40,8 @@ func main() {
 
 	// Register Middleware
 	middleware := middleware.NewAuthApiMiddleware(router, appConfig.ApiKey.ApiKeyCategory)
+
+	fmt.Println("test")
 
 	// running server
 	log.Println("running on", appConfig.App.Port)
